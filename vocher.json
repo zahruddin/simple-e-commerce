@@ -1,0 +1,12 @@
+{
+  "vocher": [
+    {
+      "kode": "tugasakhir",
+      "potongan": 5000
+    },
+    {
+      "kode": "gratis",
+      "potongan": 100000
+    }
+  ]
+}

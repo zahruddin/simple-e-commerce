@@ -1,0 +1,76 @@
+{
+  "produk": [
+    {
+      "id": 1,
+      "nama": "Arduino Uno",
+      "jenis": "Mikrokontroler",
+      "deskripsi": "Mikrokontroler serbaguna untuk proyek-proyek elektronika",
+      "harga": 62000,
+      "gambar1": "uno1.jpg",
+      "gambar2": "uno2.jpg",
+      "gambar3": "uno3.jpg",
+      "link": "https://www.tiktok.com/@seefan17/video/7198332225862012161?is_from_webapp=1&sender_device=pc&web_id=7299446056704607745",
+      "status": "Tersedia"
+    },
+    {
+      "id": 2,
+      "nama": "NodeMCU",
+      "jenis": "Mikrokontroler WiFi",
+      "deskripsi": "Mikrokontroler berbasis ESP8266 dengan kemampuan WiFi",
+      "harga": 32000,
+      "gambar1": "mcu1.jpg",
+      "gambar2": "mcu2.jpg",
+      "gambar3": "mcu3.jpg",
+      "link": "https://www.tiktok.com/@seefan17/video/7198332225862012161?is_from_webapp=1&sender_device=pc&web_id=7299446056704607745",
+      "status": "Tersedia"
+    },
+    {
+      "id": 3,
+      "nama": "Kelembaban Tanah",
+      "jenis": "Sensor",
+      "deskripsi": "Soil Moisture Sensor untuk mengukur Kelembaban Tanah",
+      "harga": 12000,
+      "gambar1": "soil1.jpg",
+      "gambar2": "soil2.jpg",
+      "gambar3": "soil3.jpg",
+      "link": "https://vt.tiktok.com/ZSNxbMc3v/",
+      "status": "Tersedia"
+    },
+    {
+      "id": 4,
+      "nama": "Sensor DHT11",
+      "jenis": "Sensor",
+      "deskripsi": "Sensor digital untuk mengukur suhu dan kelembaban",
+      "harga": 15000,
+      "gambar1": "dht1.jpg",
+      "gambar2": "dht2.jpg",
+      "gambar3": "dht3.jpg",
+      "link": "https://www.tiktok.com/@seefan17/video/7208926712602610946?is_from_webapp=1&sender_device=pc&web_id=7299446056704607745",
+      "status": "Tersedia"
+    },
+    {
+      "id": 5,
+      "nama": "Sensor RFID RC522",
+      "jenis": "Sensor",
+      "deskripsi": "Sensor RFID untuk identifikasi nirkabel dan pengelolaan akses.",
+      "harga": 20000,
+      "gambar1": "rfid1.jpg",
+      "gambar2": "rfid2.jpg",
+      "gambar3": "rfid3.jpg",
+      "link": "https://vt.tiktok.com/ZSNxb5Rbk/",
+      "status": "Tersedia"
+    },
+    {
+      "id": 6,
+      "nama": "Sensor Ultrasonic",
+      "jenis": "Sensor",
+      "deskripsi": "Sensor Ultrasonic dapat digunakan untuk mengukur jarak.",
+      "harga": 15000,
+      "gambar1": "sonic1.jpg",
+      "gambar2": "sonic2.jpg",
+      "gambar3": "sonic3.jpg",
+      "link": "https://www.tiktok.com/@seefan17/video/7196278746238782746?is_from_webapp=1&sender_device=pc&web_id=7299446056704607745",
+      "status": "Tersedia"
+    }
+  ]
+}
