@@ -7,7 +7,7 @@
   <title>SeeFan</title>
   <link href="bootstrap-5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous" />
   <style>
-    .nav-link{
+    .nav-link {
       color: whitesmoke;
     }
   </style>
@@ -110,9 +110,9 @@
       <div class="col">
         <div class="card mb-4 rounded-3 shadow-sm">
           <div class="card-header py-3 text-bg-primary border-primary">
-            <h4 class="my-0 fw-normal">Accesoris</h4>
+            <h4 class="my-0 fw-normal">Paket Project</h4>
           </div>
-          <img src="img/produk/uno3.jpg" alt="" class="m-3">
+          <img src="img/produk/rfid2.jpg" alt="" class="m-3">
           <div class="card-body">
             <a href="belanja.php" class="w-100 btn btn-lg btn-primary">Beli Disini</a>
           </div>
@@ -125,7 +125,7 @@
     <div class="row py-lg-5 mb-5">
       <div class="col-lg-10 col-md-10 mx-auto">
         <h1 class="fw-light py-1"><b>Kontak Kami</b></h1>
-        <h5 class="fw-light py-2"><a href="" style="text-decoration: none; color: black;">WA: 08956337014</a></h2>
+        <h5 class="fw-light py-2"><a href="https://wa.me/62895631337014" style="text-decoration: none; color: black;" target="_blank">WA: 08956337014</a></h2>
           <a href="https://wa.me/62895631337014" target="_blank" class="btn btn-success" class="mx-5">Whastapp</a>
       </div>
     </div>
@@ -142,17 +142,17 @@
       <ul class="nav col-md-4 justify-content-end list-unstyled d-flex">
         <li class="ms-3">
           <a class="text-body-secondary" href="https://github.com/zahruddin" target="_blank">
-          <img src="img/github.png" width="33" height="33" alt="">
+            <img src="img/github.png" width="33" height="33" alt="">
           </a>
         </li>
         <li class="ms-3">
           <a class="text-body-secondary" href="https://instagram.com/zaa_fa17" target="_blank">
-          <img src="img/instagram.png" width="20" height="20" alt="">
+            <img src="img/instagram.png" width="20" height="20" alt="">
           </a>
         </li>
         <li class="ms-3">
           <a class="text-body-secondary" href="#">
-          <img src="img/logo.png" width="30" height="24" alt="">
+            <img src="img/logo.png" width="30" height="24" alt="">
           </a>
         </li>
       </ul>
@@ -161,4 +161,5 @@
   <!-- Alhir footer -->
   <script src="bootstrap-5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
 </body>
+
 </html>
